@@ -5,13 +5,11 @@ Welcome to QR Wizard, an intuitive and easy-to-use QR code generator! Create cus
 ## Table of Contents
 
 - [Overview](#overview)
+- [live Demo]
 - [Features](#features)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
@@ -24,7 +22,6 @@ QR Wizard is a web application that allows users to generate QR codes quickly an
 - **Responsive Design**: Works seamlessly on both desktop and mobile devices.
 - **Instant Preview**: See your QR code as you customize it.
 
-## Getting Started
 
 ### Prerequisites
 
@@ -42,8 +39,7 @@ To run QR Wizard locally, you need:
    
 ## Navigate to the project directory:
 
-```bash
-cd qr-wizard
+
 Open index.html in your preferred web browser to start using QR Wizard.
 
 ## Usage
@@ -53,7 +49,7 @@ Customize the appearance of your QR code if desired.
 Click the "Generate QR Code" button.
 Download or share your generated QR code.
 
-##Technologies Used
+## Technologies Used
 HTML5: For the structure and layout.
 CSS3: For styling and responsiveness.
 JavaScript: For interactivity and QR code generation.
