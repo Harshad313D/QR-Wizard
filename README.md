@@ -5,7 +5,7 @@ Welcome to QR Wizard, an intuitive and easy-to-use QR code generator! Create cus
 ## Table of Contents
 
 - [Overview](#overview)
-- [live Demo]
+- [live Demo](#Live-Demo)
 - [Features](#features)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
@@ -14,6 +14,10 @@ Welcome to QR Wizard, an intuitive and easy-to-use QR code generator! Create cus
 ## Overview
 
 QR Wizard is a web application that allows users to generate QR codes quickly and effortlessly. Whether you need a QR code for a URL, text, or other data, QR Wizard has got you covered.
+
+## Live Demo
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Demo-blue.svg)](https://harshad313d.github.io/QR-Wizard/)
+
 
 ## Features
 
