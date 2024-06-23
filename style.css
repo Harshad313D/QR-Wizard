@@ -109,49 +109,31 @@ form button:active{
 .qr_container img{
     height: 100%;
 }
-
-/* Media Query for Mobile Devices */
-@media (max-width: 768px) {
-    .upper h1 {
-        font-size: 24px;
-        line-height: 28px;
-    }
-
-    .upper p {
-        line-height: 24px;
-    }
-
-    form input, form button {
-        height: 36px;
-        padding: 8px 12px;
-        font-size: 14px;
-        line-height: 14px;
-    }
-
-    .qr_container.show {
-        height: 120px;
-    }
+.downloadBtn{
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    background-color: rgb(111, 32, 185);
+    color: white;
+    opacity: 0.9;
+    transition: 0.3s ease-in;
+}
+ 
+.downloadBtn:hover{
+    opacity: 1;
+    transition: 0.3s ease-in;
 }
 
-@media (max-width: 480px) {
-    .upper h1 {
-        font-size: 20px;
-        line-height: 24px;
-    }
-
-    .upper p {
-        font-size: 14px;
-        line-height: 20px;
-    }
-
-    form input, form button {
-        height: 32px;
-        padding: 8px 10px;
-        font-size: 12px;
-        line-height: 12px;
-    }
-
-    .qr_container.show {
-        height: 100px;
-    }
+.downloadBtn:active{
+    background-color: rgb(23, 3, 42);
 }
+.hidden{
+    display: none;
+}
+
