@@ -24,6 +24,7 @@ QR Wizard is a web application that allows users to generate QR codes quickly an
 ![1](https://github.com/Harshad313D/QR-Wizard/assets/114754558/6bca03fa-6b95-4cd1-93da-49f5e2a076e7)
 
 ### Downloaded QR Pdf :
+(NOTE- here i have taken the screenshot thas why you can not scan this QR)
 ![2](https://github.com/Harshad313D/QR-Wizard/assets/114754558/4e1978fa-ec06-41de-8cf3-113714cbf356)
 
 
